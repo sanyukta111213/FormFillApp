@@ -1,8 +1,12 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Saidemy DevOps9:30  Student Registration!</h1>
+    <h1>Saidemy DevOps9:30pm  Student Registration!</h1>
     <p>Please fill in this form!</p>
     <hr>
+    <br>
+    
+    <label for="SurName"><b>Name</b></label>
+    <input type="text" placeholder="Enter SurName" name="Surname" id="Surname" required>
     <br>
 
     <label for="name"><b>Name</b></label>
