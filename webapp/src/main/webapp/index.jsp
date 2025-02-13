@@ -4,13 +4,18 @@
     <p>Please fill in this form!</p>
     <hr>
     <br>
-    
-    <label for="SurName"><b>SurName</b></label>
-    <input type="text" placeholder="Enter SurName" name="Surname" id="Surname" required>
-    <br>
 
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <br>
+
+    <label for="Middlename"><b>MiddleName</b></label>
+    <input type="text" placeholder="Enter MiddleName" name="Middlename" id="Middlename" required>
+    
+     <br>
+
+    <label for="SurName"><b>SurName</b></label>
+    <input type="text" placeholder="Enter SurName" name="Surname" id="Surname" required>
     <br>
 
     <label for="email"><b>Email</b></label>
